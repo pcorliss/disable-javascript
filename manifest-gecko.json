@@ -1,10 +1,10 @@
 {
-  "author": "David Pacassi Torrico",
+  "author": "Philip Corliss",
   "manifest_version": 2,
   "name": "Disable JavaScript",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Adds the ability to disable JavaScript on specific sites.",
-  "homepage_url": "https://github.com/dpacassi/disable-javascript",
+  "homepage_url": "https://github.com/pcorliss/disable-javascript",
   "default_locale": "en",
   "icons": {
     "40": "icons/40/app.png",

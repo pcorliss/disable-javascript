@@ -12,7 +12,7 @@
 - `/pages/src/sass` -> `/pages/dist/css`
 
 ## Developer's local environment
-**OS:** macOS Mojave, 10.14.4  
-**Needed environment variables:** None  
-**NPM version:** 6.9.0  
-**Node.js version:** 10.15.3
+**OS:** macOS Sonoma, 14.2.1
+**Needed environment variables:** None
+**NPM version:** 6.14.15
+**Node.js version:** 14.18.3

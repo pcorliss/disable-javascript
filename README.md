@@ -1,3 +1,7 @@
+# Disable JavaScript Forked
+
+The repository contains a forked version of the chrome extension prior to it being sold to new owners and then injected with malware.
+
 # Disable JavaScript has been discontinued!
 As you might have noticed (no updates for a long time), unfortunately I didn't have sufficient time to further
 develop this web extension.
@@ -65,13 +69,13 @@ If you want something to be added, create an issue or upvote an existing one.
 - [View Page Source (Mobile)](https://github.com/dpacassi/view-page-source-mobile)
 
 ## Maintainer
-- [David Pacassi Torrico](https://pacassi.ch/) _(Web extension implementation, maintenance, support)_
+- ~~[David Pacassi Torrico](https://pacassi.ch/) _(Web extension implementation, maintenance, support)_~~
 
 ## License
 ```
 MIT License
 
-Copyright (c) 2017 David Pacassi Torrico
+Copyright for portions of project prior to 2024 are held by David Pacassi Torrico. Work after is held by Philip Corliss.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

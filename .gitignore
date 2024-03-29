@@ -1,3 +1,4 @@
 # Ignore created XPI packages.
 disable-javascript@pacassi.ch.xpi
 node_modules
+disable-javascript*.zip
